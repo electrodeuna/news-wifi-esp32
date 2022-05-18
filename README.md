@@ -5,3 +5,7 @@ Proyecto IoT (Internet de las Cosas) para ver las noticias del dia usando el Nod
 Video:
 
 https://www.youtube.com/watch?v=HEfFj0GpdZQ
+
+News API es una HTTP REST API para buscar y recuperar articulos de todas los portales de noticias de la web.
+
+https://newsapi.org/

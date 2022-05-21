@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=HEfFj0GpdZQ
 - Bateria
 - Cables
 
+## Librerías
+
+Para este proyecto necesitamos las librerías "ArduinoJson", "Adafruit_GFX" y "Adafruit_SSD1306" que se pueden descargar desde el Arduino IDE ingresando en Herramientas -> Administrar Bibliotecas..
+
 ## Crear API Key
 
 News API es una HTTP REST API para buscar y recuperar articulos de todas los portales de noticias de la web. Para obtener los articulo necesitamos una Api Key propia que la obtenemos ingresando a la pagina de News Api: 
